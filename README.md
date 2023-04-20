@@ -2,7 +2,7 @@
 DevOps Aufgabe4
 Teammitglieder: 
 * Chris Kiriakou
-* Denis Maric
-* Dennis Deifel
 * Alexander Schwab
 * Dominik Agres
+* Denis Maric
+* Dennis Deifel
